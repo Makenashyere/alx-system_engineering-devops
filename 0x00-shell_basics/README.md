@@ -1,1 +1,1 @@
-3rd shell basics commit
+script that changes directory to home
