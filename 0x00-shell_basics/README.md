@@ -1,1 +1,1 @@
-script that list directory contents in long format
+script that lists all files including hidden in long
