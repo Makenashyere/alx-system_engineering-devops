@@ -1,1 +1,1 @@
-script that prints absolute working directory
+script that displays content of a file
