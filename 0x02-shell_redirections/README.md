@@ -1,1 +1,1 @@
-prints 2 files contents
+prints last 10 lines
