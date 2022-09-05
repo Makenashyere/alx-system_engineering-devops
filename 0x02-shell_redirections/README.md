@@ -1,1 +1,1 @@
-writes results to a file
+duplicates lines
