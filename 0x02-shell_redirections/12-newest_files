@@ -1,1 +1,1 @@
-#!/bin/bash\nls -t
+#!/bin/bash\nls -t|head
