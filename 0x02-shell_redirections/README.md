@@ -1,1 +1,1 @@
-count
+display 10 newest files
