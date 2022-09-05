@@ -1,1 +1,1 @@
-prints 3rd line
+creates a file eith a text
