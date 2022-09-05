@@ -1,1 +1,1 @@
-creates a file eith a text
+writes results to a file
