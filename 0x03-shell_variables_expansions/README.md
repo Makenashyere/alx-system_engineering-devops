@@ -6,3 +6,4 @@ counts number of dirs
 6. creates new local variable
 7. creates new global variable
 8. addition of 128and trueknowledge
+9. result of POWER by DIVIDE
