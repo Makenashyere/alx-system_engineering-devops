@@ -9,3 +9,4 @@ counts number of dirs
 9. result of POWER by DIVIDE
 10. breath to the power love
 11. converts no. from base 2 to base 10
+12. prints of all possible combos except oo
