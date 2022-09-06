@@ -10,3 +10,4 @@ counts number of dirs
 10. breath to the power love
 11. converts no. from base 2 to base 10
 12. prints of all possible combos except oo
+13. prints number with 2 decimal places
